@@ -1,0 +1,3 @@
+rootProject.name = 'oblique2'
+
+include ':app'
